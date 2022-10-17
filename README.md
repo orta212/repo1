@@ -1,2 +1,5 @@
 # latihan 1
-Testing
+``` python
+Hello
+Saya sedang belajar python
+```
